@@ -1,2 +1,2 @@
-# go-linux-commands
-A rewrite of the Linux commands in Go (Golang)
+# Go GNU Coreutils
+A rewrite of the GNU Coreutils in Go (Golang)
